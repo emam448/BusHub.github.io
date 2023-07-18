@@ -63,7 +63,7 @@ The Bus Ticket Booking System is an online platform that allows users to conveni
 
 ## Usage
 
-1. It is static website so Don't panic just extarxct all and open all pages step by step
+1. It is a static website so Don't panic just extract all and open all pages step by step
 
 ## Contributing
 
@@ -71,7 +71,7 @@ Contributions to this project are welcome. If you find any bugs or have suggesti
 
 ## License
 
-All Rights belongs to Mohammad Abdul Gafoor
+All Rights belong to Mohammad Abdul Gafoor
 
 ## Contact
 
